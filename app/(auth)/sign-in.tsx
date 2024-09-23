@@ -73,7 +73,7 @@ const SignIn = () => {
             className="mt-6"
           />
           {/* oauth */}
-          <Oauth />
+          {/* <Oauth /> */}
           <Link
             href="/sign-up"
             className="text-lg text-center text-general-200 mt-10"
